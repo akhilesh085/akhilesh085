@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I am akhilesh.
-I am studing Computer Science Engineering from Chitkara University, Rajpura, Punjab with data science as my specialization.
+I am studying Computer Science Engineering with data science as my specialization at Chitkara University, Rajpura, Punjab. 
 
 <!--
 **akhilesh085/akhilesh085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
