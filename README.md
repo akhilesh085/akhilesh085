@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 -->
+![MilkAndMochaCoupleGIF](https://user-images.githubusercontent.com/74735963/184507177-5e127365-68bb-4461-8eed-7ca0e2c8d89b.gif)
+![MachineLearningArtificialIntelligenceGIF](https://user-images.githubusercontent.com/74735963/184507193-25630a4d-8c3b-44c9-9a1a-05a072a930ad.gif)
 
 
 - 🔭 I’m currently working on data science projects
