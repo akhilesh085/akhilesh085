@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🏸 I love to play badminton
 - ![GaussianMixtureModelsEmMethodMathGIF](https://user-images.githubusercontent.com/74735963/179453741-4b8548cd-f3a2-478a-a2aa-a94795496066.gif)
 - ✍️ Check out my blog https://collegeintegral.blogspot.com/
-- 📫 How to reach me: akhilesh0990.cse19@chitkara.edu.in
+- 📫 How to reach me: akhileshgulati085@gmail.com
